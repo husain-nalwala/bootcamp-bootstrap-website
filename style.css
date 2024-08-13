@@ -1,0 +1,10 @@
+.nav-link {
+    white-space: nowrap; 
+    word-break: normal; 
+}
+
+@media (min-width: 768px) {
+    .newsletter-input {
+        width: 50%;
+    }
+}
